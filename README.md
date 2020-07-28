@@ -1,3 +1,32 @@
+An [Ergodox](https://www.ergodox.io/) layout focused on keeping everything needed for writing code on, or close to, the home row, to reduce fatigue caused by reaching for keys.
+
+I use this daily with my [Ergodox-EZ](https://ergodox-ez.com/), and tweak/add new things to it all the time.
+
+There are 6 layers on this layout:
+- Base layer
+  - Trigger: Default
+  - Close to a normal QWERTY layout
+- Left Symbols
+  - Trigger: Holding `;`
+  - Makes common symbols available around the left side home row, puts arrow keys in a Vim-like arrangement on the right home row
+- Right Symbols
+  - Trigger: Holding `a`
+  - Makes common symbols available around the right side home row, along with some less-frequently used symbols on the left home row
+- Numbers
+  - Trigger: Holding `f`
+  - Turns the right home row and surrounding keys into a numpad, with operators on the left home row
+- Mouse
+  - Trigger: Holding `j`
+  - Enables mouse mode, using `e`, `s`, `d`, `f` for navigation
+- Game
+  - Trigger: Toggle with top-right key (typical backspace location)
+  - More of a basic QWERTY layout than the base layer, with all layer toggles removed
+
+
+Instructions from Ergodox-EZ on how this can be used below (this repo only tracks the /*/source directory)...
+
+---
+
 # Building your layout from source
 
 Congratulations on taking the next step, and making use of your keyboard's open-source nature! There's so much power to unlock — this is going to be fun. :)
