@@ -1,6 +1,10 @@
+## Ergodox Base (Reachless Layout)
+
 An [Ergodox](https://www.ergodox.io/) layout focused on keeping everything needed for writing code on, or close to, the home row, to reduce fatigue caused by reaching for keys.
 
 I use this daily with my [Ergodox-EZ](https://ergodox-ez.com/), and tweak/add new things to it all the time.
+
+### Layers
 
 There are 6 layers on this layout:
 - Base layer
@@ -22,6 +26,39 @@ There are 6 layers on this layout:
   - Trigger: Toggle with top-right key (typical backspace location)
   - More of a basic QWERTY layout than the base layer, with all layer toggles removed
 
+
+### Keymaps
+
+#### Base
+
+![Base Layout](./docs/keymap-base.png)
+
+
+#### Left Symbols
+
+![Left Symbols Layout](./docs/keymap-ls.png)
+
+
+#### Right Symbols
+
+![Right Symbols Layout](./docs/keymap-rs.png)
+
+
+#### Numbers
+
+![Numbers Layout](./docs/keymap-num.png)
+
+
+#### Mouse
+
+![Mouse Layout](./docs/keymap-mouse.png)
+
+#### Game
+
+![Game Layout](./docs/keymap-game.png)
+
+
+### Building the Firmware
 
 Instructions from Ergodox-EZ on how this can be used below (this repo only tracks the /*/source directory)...
 
