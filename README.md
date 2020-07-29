@@ -4,6 +4,8 @@ An [ErgoDox](https://www.ergodox.io/) layout focused on keeping everything neede
 
 I use this daily with my [ErgoDox-EZ Shine](https://ergodox-ez.com/), and tweak/add new things to it all the time.
 
+[Oryx configurator version of this layout](https://configure.ergodox-ez.com/ergodox-ez/layouts/nmyxJ/latest/0)
+
 ### Layers
 
 There are 6 layers on this layout:
