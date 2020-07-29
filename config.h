@@ -11,4 +11,4 @@
 #undef MOUSEKEY_TIME_TO_MAX
 #define MOUSEKEY_TIME_TO_MAX 50
 
-#define FIRMWARE_VERSION u8"nmyxJ/0KGR4"
+#define FIRMWARE_VERSION u8"nmyxJ/RXwea"

@@ -31,6 +31,7 @@
 #define NO_PIPE_ALT KC_GRAVE
 #define NO_BSLS_ALT KC_EQUAL
 #define LSA_T(kc) MT(MOD_LSFT | MOD_LALT, kc)
+#define BP_NDSH_MAC ALGR(KC_8)
 
 enum custom_keycodes {
   RGB_SLD = EZ_SAFE_RANGE,
