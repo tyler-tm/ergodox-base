@@ -1,8 +1,8 @@
-## Ergodox Base (Reachless Layout)
+## ErgoDox Base (Reachless Layout)
 
-An [Ergodox](https://www.ergodox.io/) layout focused on keeping everything needed for writing code on, or close to, the home row, to reduce fatigue caused by reaching for keys.
+An [ErgoDox](https://www.ergodox.io/) layout focused on keeping everything needed for writing code on, or close to, the home row, to reduce fatigue caused by reaching for keys.
 
-I use this daily with my [Ergodox-EZ](https://ergodox-ez.com/), and tweak/add new things to it all the time.
+I use this daily with my [ErgoDox-EZ](https://ergodox-ez.com/), and tweak/add new things to it all the time.
 
 ### Layers
 
@@ -60,7 +60,7 @@ There are 6 layers on this layout:
 
 ### Building the Firmware
 
-Instructions from Ergodox-EZ on how this can be used below (this repo only tracks the /*/source directory)...
+Instructions from ErgoDox-EZ on how this can be used below (this repo only tracks the /*/source directory)...
 
 ---
 
