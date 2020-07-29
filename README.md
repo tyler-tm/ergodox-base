@@ -6,6 +6,8 @@ I use this daily with my [ErgoDox-EZ Shine](https://ergodox-ez.com/), and tweak/
 
 [Oryx configurator version of this layout](https://configure.ergodox-ez.com/ergodox-ez/layouts/nmyxJ/latest/0)
 
+If you want to try this layout with your ErgoDox, you can use [Wally](https://ergodox-ez.com/pages/wally) to flash the firmware hex (ergodox_ez_base_vX_XXXXX_XXXXX.hex) to your keyboard.
+
 ### Layers
 
 There are 6 layers on this layout:
